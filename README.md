@@ -14,7 +14,7 @@ I am taking this course in hopes of learning the basic concepts of web developme
   <li>Understanding HTML CSS layout[15-20] <b>(DONE)</b></li>
   <li>Understanding responsive web design[20-24] <b>(DONE)</b></li>
   <li>Creating beautiful website[24-30] <b>(DONE)</b></li>
-  <li>Adding form to website[30-33]</li>
+  <li>Adding form to website[30-33] <b>(DONE)</b></li>
   <li>Advanced JavaScript: Working with the DOM [Days 33 - 37]</li>
   <li>Advanced JavaScript: Control Structures [Days 37 - 39]</li>
   <li>Milestone Project: Building a Tic-Tac-Toe Game [Days 40 - 44]</li>
